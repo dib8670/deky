@@ -16,3 +16,6 @@ Dimensions | 145.8 x 72.3 x 8.1 mm
 Display | 720 x 1280 (qHD), 5.2" (145.8mm)
 Rear Camera  | 13.0 MP, LED flash, S.LSI. S5K3L2XX
 Front Camera | 5.0 MP, S.LSI. S5K5E3YX
+
+
+forked from https://gitlab.com/jenslody
